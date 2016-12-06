@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Creepy_Cat/2D GamesAssets_Free/MainScene.unity
+  isLoaded: 1
+  isActive: 1
